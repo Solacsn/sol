@@ -69,5 +69,5 @@
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/ana-clara-nelo-05a8a8270)](www.linkedin.com/in/ana-clara-nelo-05a8a8270)
-[![Gmail Badge](https://img.shields.io/badge/-claranelopt@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:claranelopt@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-claranasn@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:claranasn@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)]((https://github.com/Solacsn))
